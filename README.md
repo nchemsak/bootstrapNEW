@@ -5,5 +5,5 @@
 * $ grunt
 
 
-![Full Screen](../images/FullScreen.png)
-![Small Screen](../images/SmallScreen.png)
+![Full Screen](images/FullScreen.png)
+![Small Screen](images/SmallScreen.png)
