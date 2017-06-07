@@ -5,4 +5,5 @@
 * $ grunt
 
 
-![alt text](http://url/to/img.png)
+![Full Screen](../images/FullScreen.png)
+![Small Screen](../images/SmallScreen.png)
