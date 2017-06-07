@@ -1,8 +1,13 @@
-# bootstrapNEW
+# Bootstrap 101
+
+## Column example
+## Card example
+## Jumbotron
+## Breadcrumbs
+## Carousel
 
 * $ cd lib
 * $ npm install
-* $ grunt
 
 ## Full Screen column layout
 ![Full Screen](/images/FullScreen3.png)
