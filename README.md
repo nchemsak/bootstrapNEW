@@ -1,11 +1,11 @@
 # Bootstrap 101
+- Column example
+- Card example
+- Jumbotron
+- Breadcrumbs
+- Carousel
 
-## Column example
-## Card example
-## Jumbotron
-## Breadcrumbs
-## Carousel
-
+## Install
 * $ cd lib
 * $ npm install
 
